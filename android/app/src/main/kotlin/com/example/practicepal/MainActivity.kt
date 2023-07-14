@@ -1,4 +1,4 @@
-package com.example.practicepal
+package com.practicepal.netsoftdevesec
 
 import io.flutter.embedding.android.FlutterActivity
 
